@@ -27,3 +27,5 @@ Here is the sample config file, I'm sure you can figure out how to use it.
 1. run `swift build -c release`
 1. run `.build/release/Sky\ Cleaner` (or `swift run`)
 
+This project replaces [blue-cleaner](https://github.com/moshegottlieb/blue-cleaner).  
+Basically does the same, but this one is in Swift and the other was in Typescript.
