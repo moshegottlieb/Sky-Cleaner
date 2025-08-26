@@ -1,0 +1,5 @@
+{
+    "user" : "your-email-here",
+    "password" : "In the Bluesky app: Settings->Security->App Passwords",
+    "days-to-keep" : 90
+}
